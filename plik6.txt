@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 as;lkfdjasd
+=======
+fasfda
+>>>>>>> STAGE
